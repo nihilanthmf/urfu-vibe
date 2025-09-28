@@ -67,8 +67,9 @@
 
 Пример структуры оформления (как в других проектах):  
 urfu-vibe/       # Кастомные модули
- ├── non-existent_folder/
- │    ├── nothing
- │
- └── REAME.md
+├── non-existent_folder/
+│   ├── nothing
+│
+└── REAME.md
+
 
